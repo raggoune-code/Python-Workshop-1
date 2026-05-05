@@ -14,7 +14,7 @@ def slow_print(text, delay=0.03):
 
 def main():
     # Python code is designed to be highly readable.
-    slow_print("🚀 Booting up Python Workshop Environment...", dela_y=0.04)
+    slow_print("🚀 Booting up Python Workshop Environment...", delay=0.04)
     time.sleep(0.5)
     
     # We can use f-strings to easily insert variables into text
